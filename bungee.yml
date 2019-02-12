@@ -1,0 +1,4 @@
+name: AntiPacketflood
+main: tokyo.nikokingames.antipacketflood.bungee.fixerMain
+version: 1.0
+author: ScaredToBeLonely
